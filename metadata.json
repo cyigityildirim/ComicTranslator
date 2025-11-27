@@ -1,0 +1,5 @@
+{
+  "name": "ComicTranslate AI",
+  "description": "Upload any comic book page and instantly translate speech bubbles into your preferred language using Gemini Vision AI. Preserves layout with smart text overlay.",
+  "requestFramePermissions": []
+}
